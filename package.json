@@ -1,0 +1,28 @@
+{
+  "name": "importer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tiptap/extension-code-block-lowlight": "^2.0.0-beta.205",
+    "@tiptap/extension-color": "^2.0.0-beta.196",
+    "@tiptap/extension-heading": "^2.0.0-beta.209",
+    "@tiptap/extension-image": "^2.0.0-beta.196",
+    "@tiptap/extension-link": "^2.0.0-beta.36",
+    "@tiptap/extension-mention": "^2.0.0-beta.95",
+    "@tiptap/extension-text-style": "^2.0.0-beta.196",
+    "@tiptap/extension-youtube": "^2.0.0-beta.202",
+    "@tiptap/html": "^2.0.0-beta.173",
+    "@tiptap/starter-kit": "^2.0.0-beta.183",
+    "@tiptap/suggestion": "^2.0.0-beta.202",
+    "axios": "^1.4.0",
+    "form-data": "^4.0.0",
+    "highlight.js": "^11.7.0"
+  }
+}
