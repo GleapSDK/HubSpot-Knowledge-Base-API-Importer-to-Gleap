@@ -2,7 +2,7 @@
 
 This is a JavaScript project that fetches data from HubSpot's knowledge center articles and imports them into your Gleap project. Please note that you will need to have nodeJS installed.
 
-# What is Gleap?
+## What is Gleap?
 
 ![Gleap JavaScript SDK Intro](https://raw.githubusercontent.com/GleapSDK/Gleap-iOS-SDK/main/Resources/GleapHeaderImage.png)
 
