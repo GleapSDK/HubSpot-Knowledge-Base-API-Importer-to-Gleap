@@ -2,6 +2,12 @@
 
 This is a JavaScript project that fetches data from HubSpot's knowledge center articles and imports them into your Gleap project. Please note that you will need to have nodeJS installed.
 
+# What is Gleap?
+
+![Gleap JavaScript SDK Intro](https://raw.githubusercontent.com/GleapSDK/Gleap-iOS-SDK/main/Resources/GleapHeaderImage.png)
+
+Gleap is a bug reporting and customer feedback tool designed for apps and websites. It streamlines the software development process, from beta testing to customer support and roadmap planning. Gleap offers features such as faster bug fixing with comprehensive reports, a feature request system, release notes, a contextual help center, and user feedback surveys. It's perfect for developers, product teams, and customer support teams who want to enhance their software development and user experience.
+
 ## Configuration
 
 Before running the script, you need to add the necessary information to the configuration section.
